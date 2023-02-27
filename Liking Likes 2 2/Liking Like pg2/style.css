@@ -1,0 +1,56 @@
+.header{
+    display:flex;
+    background-color: black;
+    color:white;
+    margin-left:200px;
+    margin-right:200px;
+}
+.h2{
+    display:flex;
+    justify-content:center;
+    margin-bottom:20px;
+}
+/* Header ------------------- */
+
+
+.image{
+    border: 5px solid black;
+    margin-left:200px;
+    margin-right:700px;
+}
+
+/* James Doe Box^ ----------------- */
+
+.container{
+    display: flex;
+    justify-content:flex-end;
+    width: auto;
+    height:auto;
+    margin-right:200px;
+    margin-bottom:20px; 
+}
+
+/* Neil/Nichole/Jim Boxes^----------*/
+.user{
+    border: 5px solid black;
+    width:350px;
+    height:250px;
+    margin-top: -238px;
+    margin-bottom:238px;
+    justify-content:flex-end;
+    
+    
+}
+.button{
+    background-color: yellow;
+    margin-left: 10px;
+    
+    
+}
+.myDiv{
+    display:flex;
+    justify-content:flex-end;
+    padding-right:10px;
+}
+
+/* Content Inisde the Boxes ^------*/
